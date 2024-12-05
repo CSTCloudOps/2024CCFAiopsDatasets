@@ -1,23 +1,4 @@
----
-configs:
-- config_name: question_file
-  data_files:
-  - path: question.jsonl
-    split: train
-license: Apache License 2.0
-tags:
-- Qianwen
-- AIOPS
-text:
-  question-answering:
-    language:
-    - zh
-  table-question-answering:
-    language:
-    - zh
----
-
-
+# 2024 CCF 国际AIOPS挑战赛数据集
 ## 数据集描述
 赛事主办方提供四个ZEDX文档，以及将ZEDX文档解析后得到的txt文件。
 
