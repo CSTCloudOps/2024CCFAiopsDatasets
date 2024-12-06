@@ -1,4 +1,6 @@
 # 2024 CCF 国际AIOPS挑战赛数据集
+## 数据集下载
+🤗 可以通过点击 <a href="https://doi.org/10.5281/zenodo.14286275"><img src="https://img.shields.io/endpoint?&url=https://cdn.jsdelivr.net/gh/logpai/loghub@zenodo/downloads.json&labelColor=1AE&color=DDEEFF&style=flat&label=Downloads"></a> 查看下载数据集详细信息。
 ## 数据集描述
 赛事主办方提供四个ZEDX文档，以及将ZEDX文档解析后得到的txt文件。
 
@@ -38,6 +40,9 @@ director
 
 ## 数据集的格式和描述
 ### 数据集加载方式
+**手动zenodo手动下载**
+https://zenodo.org/records/14286275
+
 **git clone with http**
 ```shell
 # 要求安装 git lfs
