@@ -38,7 +38,7 @@ director
 
 ## 数据集的格式和描述
 ### 数据集加载方式
-**手动zenodo手动下载**
+**zenodo手动下载**
 https://zenodo.org/records/14286275
 
 **git clone with http**
